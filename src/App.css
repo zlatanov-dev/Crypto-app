@@ -66,6 +66,11 @@ a:hover {
   border: none !important;
 }
 
+.menu-overlay {
+  position: absolute;
+  z-index: 9999
+}
+
 .loader {
   height: 81vh;
   display: flex;
