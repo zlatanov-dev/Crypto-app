@@ -1,5 +1,7 @@
 Crypto App
 
+Try it out! - https://crypto-app-z.netlify.app/
+
 Description
 
 This is a Crypto app that allows users to explore and track various cryptocurrencies. It provides real-time data, charts, and information about different cryptocurrencies. The app is built using React and utilizes several popular libraries and tools.
