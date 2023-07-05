@@ -34,9 +34,9 @@ function Navbar() {
 
     <div className="nav-conatiner">
       <div className="logo-conatiner">
-        <Avatar src={icon} size="large" />
         <Typography.Title level={2} className="logo">
-          <Link to="/">CryptoWorld</Link>
+        <Avatar src={icon} size="large" />
+          <Link to="/"> CryptoWorld</Link>
         </Typography.Title>
         <Button className="menu-control-container" onClick={() => setActiveMenu(!activeMenu)}>
           <MenuOutlined  />
